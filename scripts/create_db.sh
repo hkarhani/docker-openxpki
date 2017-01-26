@@ -1,4 +1,4 @@
-MYSQL_DOCKER_NAME=${1:-mysql}
+MYSQL_DOCKER_NAME=${1:-mariadb}
 MYSQL_ROOT_USER=${2:-root}
 MYSQL_ROOT_PASSWORD=${2:-password}
 MYSQL_DATABASE=${3:-openxpki}
